@@ -4,6 +4,8 @@ title: What Is An Api
 
 ## What Is An Api
 
+### Application Program Interface
+
 This is a stub. [Help our community expand it](https://github.com/freeCodeCamp/guide-articles/tree/master/articles/Computer-Science/What-Is-An-API/index.md).
 
 [This quick style guide will help ensure your pull request gets accepted](https://github.com/freeCodeCamp/guide-articles/blob/master/README.md).
