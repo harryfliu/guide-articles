@@ -4,6 +4,8 @@ title: Ram
 
 ## Ram
 
+### This means "random access memory" and is a cache of bits that allows for data to be accessed quickly. Can be volatile or non-volatile.
+
 This is a stub. [Help our community expand it](https://github.com/freeCodeCamp/guide-articles/tree/master/articles/Computer-Hardware/RAM/index.md).
 
 [This quick style guide will help ensure your pull request gets accepted](https://github.com/freeCodeCamp/guide-articles/blob/master/README.md).
